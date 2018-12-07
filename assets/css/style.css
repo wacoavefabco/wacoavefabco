@@ -174,7 +174,7 @@ section {
 }
 
 .bg-grey {
-    background-color: #fcfbf7;
+    background-color: #d6d6d6;
 }
 
 .bg-black {
@@ -869,7 +869,7 @@ textarea::-ms-input-placeholder {
 
 /*Preloader*/
 #loading {
-    background-color: rgba(218, 240, 238, 1);
+    background-color: rgba(83,97,101,1);
     height: 100%;
     width: 100%;
     position: absolute;
@@ -1473,13 +1473,13 @@ tems Section style
 }
 
 .main-portfolio .button:hover {
-    background-color: rgba(101,86,72,.5);;
+    background-color: rgba(162,174,178,1);
     color: #222;
 }
 
 .main-portfolio .button:active,
 .main-portfolio .button.is-checked {
-    background-color: rgba(101,86,72,1);
+    background-color: rgba(83,97,101,1);
     ;
 }
 
