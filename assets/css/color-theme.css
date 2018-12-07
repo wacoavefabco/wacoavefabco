@@ -1,0 +1,8 @@
+:color-themes {
+    --primary-color: rgba(83,97,101,1);
+    --secondary-color: rgba(162,174,178,1);
+    --ternary-color: rgba(254,254,254,1);
+    --accent-primary-color: rgba(101,86,72,1);
+    --accent-secondary-color: rgba(178,170,162,1);
+    --text-black: #16293b;
+}
